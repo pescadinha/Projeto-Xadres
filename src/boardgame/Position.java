@@ -33,8 +33,4 @@ public class Position {
 	public String toString () {
 		return row + ", " + column;
 	}
-	
-	//public setValues (int row, int column) {
-		//return 
-	//}
 }
